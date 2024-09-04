@@ -43,9 +43,9 @@ crypto-encryption-project/
       Place the files you want to encrypt into the `upload/ directory`.    Example file (`example.txt`) is already provided.
 
   **4. Run the Shell Script :**
-     ```bash
-     ./encrypt_files.sh
-     ```
+  ```bash
+  ./encrypt_files.sh
+  ```
 The script will:
 
 Check if the `upload directory` exists and contains files.
