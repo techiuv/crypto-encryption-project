@@ -1,0 +1,4 @@
+This project demonstrates a simple file encryption process using C and a shell script. The project allows you to encrypt multiple files stored in a directory and save the encrypted files in a separate directory.
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software in your own projects.
+
